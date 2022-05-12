@@ -12,4 +12,4 @@
   * Traded Montrezl Harrell, Kyle Kuzma, Kentavious Caldwell-Pope to the Washington Wizards to get Russell Westbrook 	8/6/2021
   * Signed Carmelo Anthony 8/6/2021
   * Signed Dwight Howard	8/6/2021
-* Russell Westbrook has been blamed for a lot of losses - we can look at his individual performance this season vs. past seasons where he played for other teams
+* Russell Westbrook has been blamed for a lot of losses - we can look at his individual performance this season vs. past seasons where he played for other teams [ this is done]
